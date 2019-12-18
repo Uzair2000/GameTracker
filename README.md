@@ -1,1 +1,3 @@
 # GameTracker
+
+Author: Uzair Malik
